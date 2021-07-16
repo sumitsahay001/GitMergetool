@@ -2,5 +2,5 @@
 # second commit from main`
 spiral
 elliptical
-bar
+barred
 irregular
